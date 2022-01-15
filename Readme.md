@@ -1,5 +1,8 @@
 # Will it rain tomorrow, yes or no?and why?
 
+Please view notebook here: https://github.com/anjali-ghanshani/rain-in-AUS-EDA/blob/master/Rain_In_Australia_EDA.ipynb
+<hr>
+
 This python notebook contains Exploratory Data Analysis concluding various climate conditions responsible for the rainfall probability for the next day.
 
 *Step 1* Import libararies into the notebook and read the dataset.
@@ -16,6 +19,3 @@ This python notebook contains Exploratory Data Analysis concluding various clima
 check for the dependency of the target variable on other variables such as `windspeed`, `humidity`, `temperaturedifference`,`Location`, `Time of the year`
 
 *Step 7* Conclusion
-
-
-
